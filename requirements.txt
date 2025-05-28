@@ -2,3 +2,4 @@ pde
 streamlit
 pandas
 openpyxl
+streamlit_authenticator
